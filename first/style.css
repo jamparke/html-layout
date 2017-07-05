@@ -1,0 +1,34 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.bar1 {
+  background-color: rgb(60, 60, 60);
+  height: 160px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+main {
+  position: relative;
+  height: 725px;
+  background-color: white;
+  left: 150px;
+  width: 675px;
+}
+
+.bar2 {
+  position: absolute;
+  background-color: black;
+  left: 150px;
+  width: 675px;
+  color: white;
+  height: 70px;
+
+}
+
+body {
+  margin: 0;
+  background-color: rgb(217, 217, 217);
+}

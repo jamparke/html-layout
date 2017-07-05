@@ -1,0 +1,67 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.bucket {
+  position: relative;
+  background-color: white;
+  height:900px;
+  width: 900px;
+  left: 260px;
+
+}
+
+.box {
+  position: relative;
+  width: 95px;
+  height: 95px;
+  left: 25px;
+  top: 10px;
+  background-color: rgb(75, 122, 186);
+
+
+
+}
+
+ .bar1 {
+  position: relative;
+  background-color: rgb(216, 216, 216);
+  height: 120px;
+
+
+}
+
+.bar2 {
+  position: relative;
+  background-color: rgb(88, 144, 220);
+  height: 130px;
+  top: 250px;
+
+}
+
+.bar3 {
+  position: relative;
+background-color: rgb(123, 223, 195);
+height: 130px;
+top: 250px;
+}
+
+.bar4 {
+  position: relative;
+background-color: rgb(194, 230, 145);
+height: 135px;
+top: 250px;
+}
+
+.bar5 {
+  position: relative;
+background-color: rgb(246, 230, 82);
+height: 135px;
+top: 250px;
+}
